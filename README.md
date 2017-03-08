@@ -1,2 +1,2 @@
 # athena
-athena data core.
+athena data core project to opensource series.
